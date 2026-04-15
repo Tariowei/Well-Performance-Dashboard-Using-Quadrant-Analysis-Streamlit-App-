@@ -58,8 +58,5 @@ Wells in the "low oil & high water" quadrant are flagged for further investigati
 
 ---
 
-## How to Run
-
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
+## Streamlit app
+https://m3pjrmn6bnumtdmdbkvvnx.streamlit.app/
