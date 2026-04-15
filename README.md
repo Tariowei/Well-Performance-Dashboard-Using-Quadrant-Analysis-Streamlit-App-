@@ -28,8 +28,8 @@ It focuses on identifying wells that may require attention by comparing oil and 
 ### 1. Health Index (HI)
 To compare wells fairly, a simple normalization approach is used:
 
-- HI_Oil = 1 - (Oil / Average Oil)  
-- HI_Water = 1 - (Water / Average Water)  
+- HI_Oil = (Oil / Average Oil) - 1  
+- HI_Water = (Water / Average Water) - 1  
 
 This helps identify wells performing above or below average.
 
